@@ -19,7 +19,7 @@ Clone the repo
 
 ```terminal
 git clone https://github.com/iparthpawar/Supplychain_Management_System.git
-cd .\Blockchain-Project\Supplychain-Medicine-blockchain
+cd .\Supplychain-Medicine-blockchain
 ```
 
 Install `node_modules` using `npm`
