@@ -18,7 +18,7 @@ Import the ganache local blockchain accounts in metamask using each account's pr
 Clone the repo
 
 ```terminal
-git clone https://github.com/adityapatil47/Blockchain-Project.git
+git clone https://github.com/iparthpawar/Supplychain_Management_System.git
 cd .\Blockchain-Project\Supplychain-Medicine-blockchain
 ```
 
